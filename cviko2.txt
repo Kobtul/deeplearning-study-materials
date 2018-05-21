@@ -1,0 +1,4 @@
+op = t5.train.GradientDescentOptmizer(Dr).minimize(loss)
+nebo AdamOptimizer
+
+make sense to minimize learning rate during the epochs. 
